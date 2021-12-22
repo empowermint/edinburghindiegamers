@@ -1,7 +1,11 @@
 lsi: false
 safe: true
 source: edinburghindiegamers
+title: "Edinburgh Indie Gamers"
 timezone: Europe/London
+author:
+  name: "James Harding"
+  email: "james@james-t-harding.com"
 incremental: false
 highlighter: rouge
 gist:
