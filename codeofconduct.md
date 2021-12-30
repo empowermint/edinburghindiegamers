@@ -44,10 +44,9 @@ Explain and incorporate some form of tools for safe play (e.g. X-Card, Lines & V
 
 ### Safety, Support and Inclusivity Tools
 
-Games organized through the Edinburgh Indie Gamers must use tools for safe, welcoming play. We recommend that all members read <a href="https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj" alt="Gaming safety resource">the TTRPG Safety Toolkit
-curated by Kienna Shaw and Lauren Bryant-Monk.</a>
+Games organized through the Edinburgh Indie Gamers must use tools for safe, welcoming play. We recommend that all members read [the TTRPG Safety Toolkit curated by Kienna Shaw and Lauren Bryant-Monk.](https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj "Gaming safety resource")
  
-We also strongly recommend that community members read <a href="https://docs.google.com/document/d/1ZFSXz-Yva1KZAsP7NblCdkoiQ6RcjxSV2gj98eXusJs/edit" alt="Gaming accessibility resource">Accessibility in Tabletop curated by Jennifer Kretchmer.</a>
+We also strongly recommend that community members read [Accessibility in Tabletop curated by Jennifer Kretchmer](https://docs.google.com/document/d/1ZFSXz-Yva1KZAsP7NblCdkoiQ6RcjxSV2gj98eXusJs/edit "Gaming accessibility resource").
  
 ### Definitions
 
@@ -95,6 +94,6 @@ You should be assured that there will be no retaliation against you for making g
 
 ### Thanks and Attribution
 
-This policy was based on the existing <a href="https://2018.xoxofest.com/conduct" alt="Example code">XOXO Community Code of Conduct</a>, the <a href="https://www.gauntlet-rpg.com/community-code-of-conduct.html" alt="Example code">Gauntlet code of Conduct</a> which is itself based on resources provided by <a href="https://geekfeminism.org/about/code-of-conduct/" alt="Example code">Geek Feminism</a>, and borrows heavily from similar open source policies authored by <a href="https://2018.jsconfau.com/code-of-conduct" alt="Example code">JSConf AU</a> and <a href="https://www.djangoproject.com/conduct/" alt="Example code">Django</a>.
+This policy was based on the existing [XOXO Community Code of Conduct](https://2018.xoxofest.com/conduct "Example code"), the [Gauntlet code of Conduct](https://www.gauntlet-rpg.com/community-code-of-conduct.html) which is itself based on resources provided by [Geek Feminism](https://geekfeminism.org/about/code-of-conduct/ "Example code"), and borrows heavily from similar open source policies authored by [JSConf AU](https://2018.jsconfau.com/code-of-conduct "Example code") and [Django](https://www.djangoproject.com/conduct/ "Example code").
 
-This policy is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" alt="Full liscence">Creative Commons Attribution 4.0 International license</a>. We encourage other events to adopt (and enforce) similar policies by using and remixing ours.
+This policy is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/ "Full liscence"). We encourage other events to adopt (and enforce) similar policies by using and remixing ours.
