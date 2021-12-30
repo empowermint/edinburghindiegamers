@@ -11,24 +11,24 @@ Participating in EIG constitutes acknowledgement and acceptance to abide by this
  
 Anyone who violates this Code of Conduct may be sanctioned or expelled from EIG spaces. 
  
-### Edinburgh Indie Gamers Principles
+## Edinburgh Indie Gamers Principles
 
 In accordance with our Code of Conduct, everyone who participates in Edinburgh Indie Gamers shall function within the following principles:
 
-#### Safety
+### Safety
 
 All games run within our community must use, explain, and support safety tools. This isn't to eliminate challenging content, but to make sure that everyone knows the bounds and has given consent.
 
-#### Consideration
+### Consideration
 
 That safety doesn't end at the gaming table, or with formal safety tools. We ask when in our spaces you consider your words and their impact. It is vital that members can offer opinions and discuss issues, but that should be done in a spirit of support, kindness, and inclusivity. Think about your intent and act in those spaces with integrity and love. Be positive and supportive of others as you would hope they would be of you.
 
-#### Inclusivity
+### Inclusivity
 
 Community members must be supportive and inclusive. They should think about the impact of their words, the privilege they hold, and the relative position of those they interact with. As a community we prioritise marginalised people’s safety over privileged people’s comfort and will make all reasonable efforts to be inclusive.
 Play Guidelines
 
-### Edinburgh Indie Gamers Guidelines
+## Edinburgh Indie Gamers Guidelines
 
 In the course of exemplifying the Community Principles, all members of our community shall function within the following guidelines:
 
@@ -42,13 +42,13 @@ Clearly declare the concept, aim, tone, & subject matter (including clear conten
 
 Explain and incorporate some form of tools for safe play (e.g. X-Card, Lines & Veils, etc) into every game shared
 
-### Safety, Support and Inclusivity Tools
+## Safety, Support and Inclusivity Tools
 
 Games organized through the Edinburgh Indie Gamers must use tools for safe, welcoming play. We recommend that all members read [the TTRPG Safety Toolkit curated by Kienna Shaw and Lauren Bryant-Monk.](https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj "Gaming safety resource")
  
 We also strongly recommend that community members read [Accessibility in Tabletop curated by Jennifer Kretchmer](https://docs.google.com/document/d/1ZFSXz-Yva1KZAsP7NblCdkoiQ6RcjxSV2gj98eXusJs/edit "Gaming accessibility resource").
  
-### Definitions
+## Definitions
 
 Harassment includes:
 
@@ -78,11 +78,11 @@ As a community we prioritise marginalised people’s safety over privileged peop
 * Complaints of someone communicating in a ‘tone’ you don’t find congenial
 * Complaints against criticisms of racist, sexist, cissexist, or otherwise oppressive behaviour or assumptions
 
-### Reporting
+## Reporting
 
 If you experience disrespectful or harassing behaviour by a member of the community, notice that someone else is being disrespected or harassed, or have any other concerns, please immediately contact one of the admin team via Facebook or Discord.
 
-#### Enforcement and Consequences
+### Enforcement and Consequences
 
 Participants asked to stop any harassing behaviour are expected to comply immediately.
  
@@ -92,7 +92,7 @@ If the person who is harassing you is a member of staff, either officially or in
 
 You should be assured that there will be no retaliation against you for making good faith claims.
 
-### Thanks and Attribution
+## Thanks and Attribution
 
 This policy was based on the existing [XOXO Community Code of Conduct](https://2018.xoxofest.com/conduct "Example code"), the [Gauntlet code of Conduct](https://www.gauntlet-rpg.com/community-code-of-conduct.html) which is itself based on resources provided by [Geek Feminism](https://geekfeminism.org/about/code-of-conduct/ "Example code"), and borrows heavily from similar open source policies authored by [JSConf AU](https://2018.jsconfau.com/code-of-conduct "Example code") and [Django](https://www.djangoproject.com/conduct/ "Example code").
 
