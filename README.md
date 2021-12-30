@@ -3,7 +3,7 @@
 ## Project Roadmap and Progress
 
 * ~~working Jekyll setup~~
-* site map
+* ~~site map~~
 * draft content in place
 * update to custom theme
 * WCAG AA implementation
@@ -16,12 +16,14 @@
 
 The site uses a static site generator called [Jekyll](https://jekyllrb.com/). This means that you can edit the content of pages without having to learn how to code websites.
 
-Every file with .md as its extension corresponds to a live page on the website.
+Each file with .md as its extension corresponds to a live page on the website.
 
-The files are written in [markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) (the same system as Discord) and can be edited using the on-site Github editor.
+The files are written in [markdown](https://www.markdownguide.org/basic-syntax/ "Guide to Markdown") (the same system as Discord) and can be edited using the on-site Github editor. You can also write HTML directly in these files if that helps.
+
+Please do make sure you provide titles for links and alt text for images, as these are a crucial part of making the site accessible.
 
 Once you commit your changes it will take Github a few minutes to update the live website.
 
-### How do I add a blog post?
+### How do I add a news post?
 
-There is [a very short reference on how to create blog posts on the Jekyll website](https://jekyllrb.com/docs/posts/).
+There is [a very short reference on how to create blog posts on the Jekyll website](https://jekyllrb.com/docs/posts/ "Guide to making blog posts").
