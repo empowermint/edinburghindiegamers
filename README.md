@@ -4,10 +4,11 @@
 
 * ~~working Jekyll setup~~
 * ~~site map~~
-* draft content in place
+* ~~draft content in place~~
+* ability to post news stories
+* event display/integration with Google Calendar
 * update to custom theme
 * WCAG AA implementation
-* event display/integration with Google Calendar
 * accessibility and responsiveness audit
 * contributor access
 * redirect URL
