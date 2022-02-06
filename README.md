@@ -15,7 +15,7 @@
 
 ## Guide for Contributors
 
-The site uses a static site generator called [Jekyll](https://jekyllrb.com/). This means that you can edit the content of pages without having to learn how to code websites.
+The site uses a static site generator called [Jekyll](https://jekyllrb.com/). This means that members of the community can edit the content of pages without having to learn how to code websites.
 
 Each file with .md as its extension corresponds to a live page on the website.
 
@@ -23,7 +23,7 @@ The files are written in [markdown](https://www.markdownguide.org/basic-syntax/ 
 
 Please do make sure you provide titles for links and alt text for images, as these are a crucial part of making the site accessible.
 
-Once you commit your changes it will take Github a few minutes to update the live website.
+Once you commit your changes, it will take Github a few minutes to update the live website.
 
 ### How do I add a news post?
 

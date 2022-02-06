@@ -32,6 +32,7 @@ We would love for you to read, print, enjoy, translate, and generally consume ou
 ## Join the Discord
 
 You are invited to join our Discord if you:
+
 - have attended an EIG event in the past,
 - live in commuting distance of Edinburgh and intend to attend an EIG event in the future, 
 - or live in the UK and are permanently housebound.
