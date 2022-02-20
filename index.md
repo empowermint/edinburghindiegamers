@@ -4,7 +4,7 @@ title: Welcome
 ---
 
 Edinburgh Indie Gamers is ~~the illum~~ a small indie gaming community based in Edinburgh, Scotland.
-
+S
 We play
 - indie games
 - small-press games
